@@ -4,6 +4,10 @@ A project for HTML, CSS, JS part at ITI Summer Training "Python Full Stack".
 
 Welcome to the Fashion Store project! This is a sample e-commerce website that showcases products, allows users to add items to their cart, and provides a slider for product highlights.
 
+## Live Demo
+
+You can view the live demo of the project [here](https://3ab2wy1911.github.io/Ecommerce_ITI_Project).
+
 ## Features
 
 - **Product Slider**: A carousel slider to showcase featured products.
